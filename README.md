@@ -10,3 +10,4 @@ mais $1.000.000 para dividir
 
 #Adicionando comentario
 
+#Copyright
